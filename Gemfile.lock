@@ -185,6 +185,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails (= 6.0.3)
   bootstrap-sass (= 3.3.5)
   coffee-rails (~> 4.0.0)
   devise (= 3.4.1)

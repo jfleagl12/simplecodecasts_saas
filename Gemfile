@@ -70,3 +70,6 @@ gem 'figaro', '1.0.0'
 
 # Use paperclip for image uploads
 gem 'paperclip', '4.2.1'
+
+# Use autoprefixer for add vendor prefixes to CSS 
+gem 'autoprefixer-rails', '6.0.3'
